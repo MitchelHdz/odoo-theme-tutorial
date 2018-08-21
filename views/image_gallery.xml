@@ -6,4 +6,10 @@
 		<field name="url">/theme_tutorial/static/src/img/client.png</field>
 		<field name="public" eval="True"/>
 	</record>
+	<record id="bf" model="ir.attachment">
+		<field name="name">BF</field>
+		<field name="type">url</field>
+		<field name="url">/theme_tutorial/static/src/img/bf.svg</field>
+		<field name="public" eval="True"/>
+	</record>
 </odoo>
